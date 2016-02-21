@@ -1,0 +1,3 @@
+C:\Users\Arthur\Documents\Projetos\Genetic\Genetic\bin\Debug\Genetic.exe.config
+C:\Users\Arthur\Documents\Projetos\Genetic\Genetic\obj\Debug\Genetic.exe
+C:\Users\Arthur\Documents\Projetos\Genetic\Genetic\obj\Debug\Genetic.pdb

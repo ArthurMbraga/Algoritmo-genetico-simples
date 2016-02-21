@@ -1,0 +1,9 @@
+C:\Users\Arthur\Documents\Projetos\Genetic\Genetic\bin\Debug\Genetic.exe.config
+C:\Users\Arthur\Documents\Projetos\Genetic\Genetic\bin\Debug\Genetic.exe
+C:\Users\Arthur\Documents\Projetos\Genetic\Genetic\bin\Debug\Genetic.pdb
+C:\Users\Arthur\Documents\Projetos\Genetic\Genetic\obj\Debug\Genetic.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Documents\Projetos\Genetic\Genetic\obj\Debug\Genetic.Panel.resources
+C:\Users\Arthur\Documents\Projetos\Genetic\Genetic\obj\Debug\Genetic.Properties.Resources.resources
+C:\Users\Arthur\Documents\Projetos\Genetic\Genetic\obj\Debug\Genetic.csproj.GenerateResource.Cache
+C:\Users\Arthur\Documents\Projetos\Genetic\Genetic\obj\Debug\Genetic.exe
+C:\Users\Arthur\Documents\Projetos\Genetic\Genetic\obj\Debug\Genetic.pdb
